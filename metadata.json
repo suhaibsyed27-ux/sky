@@ -1,0 +1,6 @@
+{
+  "name": "Skyline Equipage — General Order Supplier",
+  "description": "Full-spectrum general order supplier in Rawalpindi, Pakistan. Direct procurement across seven core verticals with instant WhatsApp order submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
